@@ -6,3 +6,4 @@ input/
 .httr-oauth
 .DS_Store
 .quarto
+*.jpg
